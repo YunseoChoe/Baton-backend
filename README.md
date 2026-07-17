@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f800b035-4388-4d0b-9e41-9c9a1c96b6e2" width="256" height="256" alt="Baton Logo"/>
+  <img width="256" height="256" alt="Baton-logo" src="https://github.com/user-attachments/assets/6847e6c1-a47c-4d15-af1d-9c5630b5354a" />
   <h3 align="center">Baton 🤝</h3>
   <p align="center">
     크레딧 · 에스크로 기반 1:1 안전 재능 교환 플랫폼<br>
